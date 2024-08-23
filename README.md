@@ -1,9 +1,9 @@
-NAME- JYOTIRANJAN MAHAPATRA\n
-Company - CODETECH IT SOLUTION
-ID - CT08DS6287
-Domain - Full stack web development
-Duration - August to september
-Mentor - Muzammil Ahmed
+NAME- JYOTIRANJAN MAHAPATRA <br>
+Company - CODETECH IT SOLUTION <br>
+ID - CT08DS6287 <br>
+Domain - Full stack web development  <br>
+Duration - August to september <br>
+Mentor - Muzammil Ahmed <br>
 
 RECIPE SHARING APP
 This project is a full-stack web application for sharing and discovering recipes. It allows users to create, view, update, and delete recipes, as well as save their favorite recipes for easy access later. The application is built using the MERN stack (MongoDB, Express.js, React, Node.js) for robust performance and scalability.
